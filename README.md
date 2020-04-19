@@ -1,5 +1,5 @@
 # Free-game-asset-resource-collection
-
+A collection of various URLs to resources that contain free assets (scripts, images, fonts etc.) for developing video games. This list may include resources that also have paid assets but as long as there's something of use that's free, it's worthy enough to be in the list 😉.
 
 [2D images]
 [3D models]
