@@ -38,6 +38,14 @@ http://devassets.com/
 https://www.poliigon.com/
 <br>
 
+[3D models]<br>
+https://free3d.com/
+<br>
+
+[3D models]<br>
+https://www.mixamo.com/
+<br>
+
 [Any type]<br>
 https://itch.io/game-assets
 <br>
